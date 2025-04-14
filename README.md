@@ -9,10 +9,10 @@ This project is a full-fledged cybersecurity lab designed to simulate a real-wor
 
 ## 🔧 Lab Setup
 
-- **Host System:** macOS (VMware Fusion)
+- **Host System:** Windows (VMware Workstation Pro)
 - **Virtual Machines:**  
   - **Ubuntu Server 22.04** - Attacker VM  
-  - **Windows 11** - Victim VM (Defender disabled)
+  - **Windows 10/11** - Victim VM (Defender disabled)
 
 ---
 
