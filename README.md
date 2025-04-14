@@ -59,7 +59,7 @@ This project is a full-fledged cybersecurity lab designed to simulate a real-wor
 
 ## 🔍 Screenshots & Output
 
-*(Add screenshots or logs showing Sliver session, LimaCharlie detections, etc. here)*
+*(not-available)*
 
 ---
 
