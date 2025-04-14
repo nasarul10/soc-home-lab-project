@@ -82,6 +82,6 @@ This project is intended for **educational and research purposes** only.
 
 **Nasarul Naseer**  
 Cybersecurity Enthusiast | SOC Analyst in Training  
-[https://github.com/nasarul10]  
-[https://linkedin.com/nasarulnaseer]
+[Github](github.com/nasarul10)
+[LinkedIn](linkedin.com/in/nasarulnaseer)
 
